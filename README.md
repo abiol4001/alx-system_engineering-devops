@@ -1,1 +1,1 @@
-The readme file
+Working on 0x00. Shell, basics project
